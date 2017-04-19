@@ -1,0 +1,6 @@
+.validation:focus:invalid{
+	border:1px solid red;
+}
+.validation:focus:valid{
+	border:1px solid green;
+}
